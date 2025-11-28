@@ -109,27 +109,6 @@ SMOTE (imbalanced-learn)
 
 KMeans, PCA for clustering & dimensionality reduction
 
-📂 Repository Structure
-├── data/
-│   ├── Dataset.csv
-│   ├── cleaned_Dataset.csv
-│   ├── pca_dataset.csv
-│   ├── cluster_output.csv
-│   └── model_metrics.csv
-│
-├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── eda.ipynb
-│   ├── modeling.ipynb
-│   ├── clustering.ipynb
-│   └── pyspark_pipeline.ipynb
-│
-├── dashboard/
-│   └── looker_studio_dashboard.pdf
-│
-├── README.md
-└── requirements.txt
-
 📈 Results & Insights
 
 ICU admission strongly correlated with age, pneumonia, hypertension, obesity, and renal chronic conditions.
