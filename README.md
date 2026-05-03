@@ -110,7 +110,7 @@ Open Power BI dashboard file (.pbix)
 ### 📂 Project Structure
 📁 Project  
 │  
-├── 📄 main.py                # ML pipeline  
+├── 📄 main.py               # ML pipeline  
 ├── 📄 icu_prediction_data.csv  
 ├── 📊 dashboard.pbix        # Power BI dashboard  
 ├── 📄 README.md
