@@ -59,7 +59,8 @@ Used SMOTE to balance ICU vs non-ICU classes
 ### 4️⃣ Model Building
 🔹 Logistic Regression
 Used for interpretability
-Applied feature scaling
+Applied feature scaling  
+
 🔹 Random Forest
 Used for performance comparison
 
@@ -86,7 +87,8 @@ Total Patients
 ICU Patients
 ICU Rate
 High-Risk Patients
-Avg Hospital Stay
+Avg Hospital Stay  
+
 🔹 Visual Insights
 ICU Rate by Age Group
 ICU Distribution by Gender
