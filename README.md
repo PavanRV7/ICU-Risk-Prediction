@@ -60,9 +60,8 @@ Used SMOTE to balance ICU vs non-ICU classes
 🔹 Logistic Regression
 Used for interpretability
 Applied feature scaling  
-
 🔹 Random Forest
-Used for performance comparison
+Used for performance comparison  
 
 ### 5️⃣ Model Evaluation
 Metric	Logistic Regression	Random Forest
@@ -81,7 +80,7 @@ Gender
 
 ### 📈 Dashboard (Power BI)
 
-The dashboard provides:
+The dashboard provides:  
 🔹 KPIs
 Total Patients
 ICU Patients
@@ -109,11 +108,11 @@ python main.py
 Open Power BI dashboard file (.pbix)
 
 ### 📂 Project Structure
-📁 Project
-│
-├── 📄 main.py                # ML pipeline
-├── 📄 icu_prediction_data.csv
-├── 📊 dashboard.pbix        # Power BI dashboard
+📁 Project  
+│  
+├── 📄 main.py                # ML pipeline  
+├── 📄 icu_prediction_data.csv  
+├── 📊 dashboard.pbix        # Power BI dashboard  
 ├── 📄 README.md
 
 ### 💡 Future Improvements
